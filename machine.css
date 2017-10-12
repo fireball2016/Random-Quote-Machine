@@ -1,0 +1,27 @@
+body {
+  background-image: url(hip-square.png);
+  background-repeat: repeat;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+hr {
+  width: 600px;
+  border-bottom: 1px solid black;
+}
+
+.quote-box {
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.jakeNi {text-align: center;}
